@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+/vendor
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.env
+composer.phar
+
+# cache and logs
+.php_cs.cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
